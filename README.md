@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- 
-<b>
- <code>
+  
 ```
    _ _ __                                             __ _ _   
   / / / /__   ___    __ _ _ __   _ __   __ _ ___    __\ \ \ \  
@@ -25,5 +23,4 @@ Here are some ideas to get you started:
   \_\_\_\====|__============================|__=======/_/_/_/
 
 ```
-</code>
-</b>
+ 
