@@ -13,12 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
+<p align="center"> 
 ```
    _ _ __                 - opannapo -                __ _ _   
   / / / /___  ___    __ _ _ __   _ __   __ _ ___   ___\ \ \ \  
@@ -26,7 +21,6 @@ Here are some ideas to get you started:
 ( ( ( (  ()    |_) ) (_| | | |    | | | (_| | |_)   ()  ) ) ) )
  \ \ \ \ ___/|  _,/ \__,_|_| |_||_| |_|\__,_|  _,/\___ / / / / 
   \_\_\_\====|__============================|__=======/_/_/_/
-```
-
+``` 
 </p>
 
