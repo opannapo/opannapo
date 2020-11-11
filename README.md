@@ -22,21 +22,23 @@ Here are some ideas to get you started:
   
 ```
 
-### About
+### » About
 ```
--Me
- └ name              » OpannapO
- └ contact           » opannapo.development@gmail.com 
- 
--Skill's 
- └ Mobile            » Java
-                     » Flutter
-                     » Android
-                     » Ios
+-» Me
+   └» name              » OpannapO
+   └» contact           » opannapo.development@gmail.com 
+```
+
+```
+-» Skill's 
+   └» Mobile            » Java
+                        » Flutter
+                        » Android
+                        » Ios
                      
- └ Backend           » Java
-                     » Sprintboot
-                     » Golang 
+   └» Backend           » Java
+                        » Sprintboot
+                        » Golang 
  
 ``` 
  
