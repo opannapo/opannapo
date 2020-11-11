@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 #
 
 #### » Programming Languages 🌱
-_ | _
+Java | Dart
 ------|------
-<img width="80" height="80" src="img/dart.svg"> | <img width="80" height="80" src="img/dart.svg">
+<img width="80" height="80" src="img/java.png"> | <img width="80" height="80" src="img/dart.svg">
 
