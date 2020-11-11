@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ```
  
 
-<p><code> b </code></p>
+<p><center><code> b </code></center></p>
