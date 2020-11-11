@@ -39,3 +39,5 @@ Here are some ideas to get you started:
                         » Golang 
 ```
 
+### » Apa Gunanya Akun / Repository ini ?
+> INi bla blabla
