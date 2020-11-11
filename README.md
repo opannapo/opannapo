@@ -34,4 +34,7 @@ Here are some ideas to get you started:
 #
 
 #### » Programming Languages 🌱
-<img width="100" height="100" src="img/dart.png">
+_ | _
+------|------
+<img width="80" height="80" src="img/dart.svg"> | <img width="80" height="80" src="img/dart.svg">
+
