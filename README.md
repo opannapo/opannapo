@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ```
  
 
-<p style="text-align:center;"><code> 
+<p><code> 
    _ _ __                                             __ _ _   
   / / / /__   ___    __ _ _ __   _ __   __ _ ___    __\ \ \ \  
  / / / /    \|  _`\ / _` | '_  \| '_  \/ _` |  _`\/    \ \ \ \
