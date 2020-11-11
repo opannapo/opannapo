@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>
-<i>#### » Apa Gunanya Akun / Repository ini ? </i>
-<a href="http://www.ironspider.ca/format_text/fontstyles.htm">Useful Source</a>
+#### <i>» Apa Gunanya Akun / Repository ini ? </i> 
 </summary>
 <p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
 </details>
