@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   
 ```
 
-### » About
+#
+
+#### » About
 ```html
 - Me
    └» name              » OpannapO
@@ -45,7 +47,8 @@ Here are some ideas to get you started:
 
 <details>
 <summary>
-<i>» show</i> 
+<i>click</i>
 </summary>
+ 
 ```It's because the details block is html5. If you want to modify it your best bet is using html5.```
 </details>
