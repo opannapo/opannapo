@@ -21,4 +21,23 @@ Here are some ideas to get you started:
   \_\_\_\====|__============================|__=======/_/_/_/               
   
 ```
-  
+
+### About
+```
+-Me
+ └ name              » OpannapO
+ └ contact           » opannapo.development@gmail.com 
+ 
+-Skill's 
+ └ Mobile            » Java
+                     » Flutter
+                     » Android
+                     » Ios
+                     
+ └ Backend           » Java
+                     » Sprintboot
+                     » Golang 
+ 
+``` 
+ 
+
