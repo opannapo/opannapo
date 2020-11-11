@@ -29,34 +29,8 @@ Here are some ideas to get you started:
 - Me
    └» name              » OpannapO
    └» contact           » opannapo.development@gmail.com  
-
-- Skill's 
-   └» Mobile            » Java
-                        » Flutter
-                        » Android
-                        » Ios
-                     
-   └» Backend           » Java
-                        » Sprintboot
-                        » Golang 
 ```
 
 #
 
-#### » Apa Gunanya Akun / Repository ini ?
-
-<details>
-<summary>
-<i>Alasan 1</i>
-</summary>
- 
-``` Sebagai Catatan Pribadi ```
-</details>
-
-<details>
-<summary>
-<i>Alasan 2</i>
-</summary>
- 
-``` Sebagai Catatan Pribadi ```
-</details>
+#### » Programming Languages rocket
