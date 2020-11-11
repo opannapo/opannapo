@@ -47,8 +47,16 @@ Here are some ideas to get you started:
 
 <details>
 <summary>
-<i>click</i>
+<i>Alasan 1</i>
 </summary>
  
-```It's because the details block is html5. If you want to modify it your best bet is using html5.```
+``` Sebagai Catatan Pribadi ```
+</details>
+
+<details>
+<summary>
+<i>Alasan 2</i>
+</summary>
+ 
+``` Sebagai Catatan Pribadi ```
 </details>
