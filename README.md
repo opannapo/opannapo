@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ```
 
 ### » About
-```java
+```html
 - Me
    └» name              » OpannapO
    └» contact           » opannapo.development@gmail.com  
