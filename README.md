@@ -39,12 +39,13 @@ Here are some ideas to get you started:
                         » Golang 
 ```
 
-<p></p>
+</p>
+
 #### » Apa Gunanya Akun / Repository ini ?
 
 <details>
 <summary>
 <i>» show</i> 
 </summary>
-<p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
+```It's because the details block is html5. If you want to modify it your best bet is using html5.```
 </details>
