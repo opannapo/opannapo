@@ -33,8 +33,13 @@ Here are some ideas to get you started:
 
 #
 
-#### » Programming Languages 🌱
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-<img width="80" height="80" src="img/java.png"> | <img width="80" height="80" src="img/dart.svg">
-
+#### » Programming Languages 🌱  
+<table>
+<thead>
+<tr>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/java.png" width="60" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/java.png" width="60" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/java.png" width="60" style="max-width:100%;"></a></th>
+</tr>
+</thead>
+</table>
