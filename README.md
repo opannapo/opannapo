@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 <table>
 <thead>
 <tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/intellig.png" width="40" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/android_studio.jpg" width="40" style="max-width:100%;"></a></th> 
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/github.png" width="40" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/docker.webp" width="40" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/intellig.png" width="25" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/android_studio.jpg" width="25" style="max-width:100%;"></a></th> 
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/github.png" width="25" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/docker.webp" width="25" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 </table>
@@ -69,11 +69,11 @@ Here are some ideas to get you started:
 <table>
 <thead>
 <tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/firestore.png" width="40" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/mysql.png" width="40" style="max-width:100%;"></a></th> 
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/redis.png" width="40" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/elastic.png" width="40" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/mongo.png" width="40" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/firestore.png" width="25" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/mysql.png" width="25" style="max-width:100%;"></a></th> 
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/redis.png" width="25" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/elastic.png" width="25" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/mongo.png" width="25" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 </table>
