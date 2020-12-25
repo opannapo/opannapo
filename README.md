@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <table>
 <thead>
 <tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/java.png" width="10" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/golang.png" width="10" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/dart.png" width="10" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/php.png" width="10" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/java.png" width="15" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/golang.png" width="15" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/dart.png" width="15" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer"><img src="img/php.png" width="15" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 </table>
