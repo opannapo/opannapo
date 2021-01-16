@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 ```
 #
-
+<!--
 #### » Programming Languages 🌱  
 <table>
 <thead>
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 </tr>
 </thead>
 </table>
-
-
+-->
+<!--
 #### » Framework
 <table>
 <thead>
@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 </tr>
 </thead>
 </table>
+-->
 
+<!--
 #### » Tools
 <table>
 <thead>
@@ -63,8 +65,9 @@ Here are some ideas to get you started:
 </tr>
 </thead>
 </table>
+-->
 
-
+<!--
 #### » Database
 <table>
 <thead>
@@ -77,3 +80,4 @@ Here are some ideas to get you started:
 </tr>
 </thead>
 </table>
+-->
