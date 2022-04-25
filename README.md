@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
  
 
-#### » Ynewbie Malamsetnent
+#### » Ynewbie Malamsenent
 ```
    _ _ __                                             __ _ _   
   / / / /__   ___    __ _ _ __   _ __   __ _ ___    __\ \ \ \  
