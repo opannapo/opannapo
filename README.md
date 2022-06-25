@@ -13,7 +13,6 @@ Here are some ideas to get you started:
  
 
 #### » Ynewbie Malamsenent
-<div style="background-color: rgb(50, 50, 50);">
 ```
    _ _ __                                             __ _ _   
   / / / /__   ___    __ _ _ __   _ __   __ _ ___    __\ \ \ \  
@@ -23,7 +22,6 @@ Here are some ideas to get you started:
   \_\_\_\====|__============================|__=======/_/_/_/               
   
 ```
-</div>
 
 #
 <!--
